@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8e4e617e9679f594b91d0d0cf0a57246, type: 3}
+  m_Name: FattyShipTypeData
+  m_EditorClassIdentifier: 
+  _rotationSpeed: 80
+  _spawnShip: {fileID: 6453327608837186882, guid: b4c18c2f15d077f41aa93f6b4771fc10, type: 3}
+  _baseSpawnShipChance: 20
+  _rotationSpeedUpgrade: 1
+  _shootSpeedUpgrade: 1.5
+  _immortalTime: 30
