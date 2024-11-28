@@ -17,4 +17,4 @@ MonoBehaviour:
   _baseSpawnShipChance: 20
   _rotationSpeedUpgrade: 1
   _shootSpeedUpgrade: 1.5
-  _immortalTime: 30
+  _immortalTime: 10
